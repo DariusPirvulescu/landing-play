@@ -1,0 +1,17 @@
+.reason {
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards {
+  padding: 40px;
+  margin-top: 20px;
+  width: 100px;
+  text-align: center;
+}
+
+.icon {
+  width: 50px;
+}
